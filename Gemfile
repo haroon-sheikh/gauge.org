@@ -13,5 +13,5 @@ gem "nokogiri", ">= 1.10.8"
 gem 'bourbon'
 gem 'neat'
 gem 'hologram'
-gem 'redcarpet', '~> 3.3', '>= 3.3.3'
+gem 'redcarpet', '~> 3.6'
 gem "middleman-minify-html"
